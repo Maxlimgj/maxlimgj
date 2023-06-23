@@ -2,7 +2,7 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Software Engineer based in **[Singapore](https://en.wikipedia.org/wiki/Dhaka).
+- A Software Engineer based in **[Singapore](https://en.wikipedia.org/wiki/Singapore).
 - Working as **Consultant at **[Deloitte Singapore]**.
 - Open Source enthusiast.
 - See my portfolio at **[maxlimgj.com](https://www.maxlimgj.com)**.
