@@ -39,10 +39,8 @@ Hi there 👋!
 
 #### How to reach me?
 
-<a href="https://twitter.com/arif_szn">
-  <img align="left" alt="Twitter" width="22px" src="./assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ariful-alam">
+
+<a href="https://www.linkedin.com/in/maxlimgj">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/swozon">
