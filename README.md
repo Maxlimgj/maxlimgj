@@ -2,27 +2,23 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Software Engineer based in **[Singapore](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
-- Working as **Software Engineer at **[Deloitte Singapore]**.
+- A Software Engineer based in **[Singapore](https://en.wikipedia.org/wiki/Dhaka).
+- Working as **Consultant at **[Deloitte Singapore]**.
 - Open Source enthusiast.
 - See my portfolio at **[maxlim.com](https://www.maxlimgj.com)**.
 
 #### What I'm doing?
 
-- Writing `JavaScript`, `TypeScript`, `Node.js`, `Nest.js`, `PHP`, `Laravel`, `React,js`, `MySQL`.
-- Contributing to Open Source.
-- Mostly active on **[LinkedIn](https://www.linkedin.com/in/maxlimgj)**
+- Active on **[LinkedIn](https://www.linkedin.com/in/maxlimgj)**
 
 
 #### What are my skill sets?
 
 - 🗄️ **Backend:**
 
-  - **Language/Platform:** `JavaScript` • `TypeScript` • `Node.js` • `PHP`
-  - **Framework:** `Nest.js` • `Express.js` • `Laravel` • `Lumen`
-  - **Databases:** `MySQL` • `PostgreSQL`
-  - **System Architecture:** `Monolithic` • `Modular`
-  - **Protocol:** `REST` • `Web Socket`
+  - **Language/Platform:** `JavaScript` • `TypeScript` • `Node.js`
+  - **Framework:** `ReactJS` • `Angular` 
+  - **Databases:** `MySQL` • `PostgreSQL` • `MsSQL`
 
 - 🖥 **Frontend:**
 
