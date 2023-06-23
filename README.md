@@ -5,36 +5,61 @@ Hi there 👋!
 - A Software Engineer based in **[Singapore](https://en.wikipedia.org/wiki/Dhaka).
 - Working as **Consultant at **[Deloitte Singapore]**.
 - Open Source enthusiast.
-- See my portfolio at **[maxlim.com](https://www.maxlimgj.com)**.
-
-#### What I'm doing?
-
-- Active on **[LinkedIn](https://www.linkedin.com/in/maxlimgj)**
+- See my portfolio at **[maxlimgj.com](https://www.maxlimgj.com)**.
 
 
-#### What are my skill sets?
 
-- 🗄️ **Backend:**
 
-  - **Language/Platform:** `JavaScript` • `TypeScript` • `Node.js`
-  - **Framework:** `ReactJS` • `Angular` 
-  - **Databases:** `MySQL` • `PostgreSQL` • `MsSQL`
+#### What are my experience
 
-- 🖥 **Frontend:**
+# My Skillset
 
-  - **Language:** `JavaScript` • `TypeScript`
-  - **Framework/Library:** `React.js` • `Docusaurus` • `Next.js` • `Gatsby`
-  - **UI Toolkit:** `Ant Design` • `MUI`
-  - **Utils:** `Tailwind` • `Modular CSS`
+## Frontend
+- Cascading Style Sheets (CSS)
+- HTML
+- Angular
 
-- 🎡 **Ecosystem:**
-  - **Containerization:** `Docker` • `Rancher Desktop` • `GitHub Codespaces`
-  - **Version Control:** `Git` • `GitHub`
-  - **CI/CD:** `Github Actions` • `Travis CI`
-  - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Asana`
+## Backend
+- C#
+- Python
+- Java
+
+## Database
+- Microsoft SQL Server
+- Redis
+- HeidiSQL
+
+## Testing/Performance
+- JMeter
+
+## Linux/Server
+- CentOS
+- Red Hat Linux
+- Tomcat
+- BMC Control-M
+- Directory Server
+- Bash
+
+## Version Control
+- Git
+
+## DevOps/Deployment/ Web Server
+- Docker-Compose
+- JBoss EAP
+- Confluence
+- Jenkins
+- Internet Information Services (IIS)
+
+## Identity and Access Management
+- ForgeRock
+- Vkey
+
+## Mobile Development
+- Android
+
 
 #### How to reach me?
-
+- Active on **[LinkedIn](https://www.linkedin.com/in/maxlimgj)**
 
 <a href="https://www.linkedin.com/in/maxlimgj">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
