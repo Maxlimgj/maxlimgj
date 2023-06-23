@@ -39,19 +39,12 @@ Hi there 👋!
 <a href="https://www.linkedin.com/in/maxlimgj">
   <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/swozon">
-  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
-</a>
 <a href="https://dev.to/maxlimgj">
   <img align="left" alt="Dev" width="22px" src="./assets/dev.svg" />
-</a>
-<a href="https://medium.com/@maxlimgj">
-  <img align="left" alt="Medium" width="22px" src="./assets/medium.svg" />
 </a>
 <a href="mailto:limguanji@gmail.com">
   <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
 </a>
-
 <br/>
 <br/>
 <br/>
